@@ -8,7 +8,7 @@ keyed_groups:
   - key: tags['app-stack-name']
     prefix: 'app_stack_'
     separator: ''
-  - key: tags['swarm_role']
+  - key: tags['swarm-role']
     prefix: 'role_'
     separator: ''
   - key: tags['environment']
